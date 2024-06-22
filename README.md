@@ -31,19 +31,3 @@ this python script scrapes all albums and tracks from a specified spotify artist
 1. when prompted, enter your spotify client id and secret. these will be saved to a `config.json` file for future use.
 2. enter the spotify artist link.
 3. the script will fetch and display the albums and tracks along with their details.
-
-## example
-
-enter spotify client id: your-client-id
-enter spotify client secret: your-client-secret
-enter spotify artist link: https://open.spotify.com/artist/ENTERSPOTIFYIDHERE
-
-album: album name
-cover: cover link
-upc: upc code
-label: label on the album
-tracks:
-name: track name
-isrc: us1234567890
-artists: artist name
-source: track source
