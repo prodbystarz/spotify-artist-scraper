@@ -23,7 +23,7 @@ this python script scrapes all albums and tracks from a specified spotify artist
 
 4. **run the script**:
     ```bash
-    python spotify_scraper.py
+    python scrape.py
     ```
 
 ## usage
