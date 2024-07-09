@@ -6,7 +6,7 @@ this python script scrapes all albums and tracks from a specified spotify artist
 
 1. **clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/spotify-artist-scraper.git
+    git clone https://github.com/prodbystarz/spotify-artist-scraper.git
     cd spotify-artist-scraper
     ```
 
